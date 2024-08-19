@@ -322,4 +322,3 @@ It's Zephyr's dotsfiles of Archlinux.
 - zathura-ps
 - zotero-bin
 - zsh
-- 
