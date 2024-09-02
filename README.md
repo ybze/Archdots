@@ -18,6 +18,12 @@ The Open Source build of Visual Studio Code (vscode) editor.
 
 Place the [configuration](./Code - OSS/settings.json) at `$HOME/.config/Code - OSS/User/settings.json`.
 
+### ddnet / ddnet-git
+
+A Teeworlds modification with a unique cooperative gameplay.
+
+Place the files in the [dictionary](./ddnet) at `$HOME/.local/share/ddnet/`
+
 ## packeages without configuration
 
 <details>

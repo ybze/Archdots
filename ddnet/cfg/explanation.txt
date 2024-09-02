@@ -1,0 +1,88 @@
+逐行解释：
+bind a "+left"
+bind b "cl_dummy_resetonswitch 0 " 开启卡键模式 
+bind c "exec hookfly_mode.cfg" 开关钩飞模式
+bind d "+right"
+bind e "bind mouse1 \"+toggle cl_dummy_hammer 1 0\"" 开启hdf模式 
+bind f "cl_dummy_copy_moves 1" 开启分身同步模式
+bind g "cl_dummy_resetonswitch 1" 关闭卡键模式（即进入不卡键模式）
+bind h "exec firsthammer.cfg" 开启单锤模式（按了这个后，你的第一锤是主tee锤，然后第二锤以后都会变成hdf模式）
+bind i "say /spec" 进入旁观模式（特定地图上tee会消失）
+bind j "say /r" 回到上一个安全状态（限在练习模式"/practice"中）
+bind k "exec qml.cfg"开启qml模式（按下q键切换分身时会立马往左）
+bind l "exec qmr.cfg"开启qmr模式（按下q键切换分身时会立马往右）
+bind m "exec edgejump.cfg"开关单跳模式（这个模式下你按下a/d的同时会跳，可以用来确保同时按下a/d+跳从而叠塔或跳edge，注意用这个跳三格水的edge只有.66及.34的坐标可以精确edge）
+bind n "exec HammerTakeOff.cfg"开关自动切锤模式（这个模式下你切换分身时会自动切换到锤，就不用担心hf时你的分身拿枪了）
+bind o "exec Fire Spam.cfg"按下这个键不松开就能一直开火
+bind p "+hook"钩
+bind q "toggle cl_dummy 0 1"切换主tee/分身
+bind r "bind mouse1 \"+fire; +toggle cl_dummy_hammer 1 0\""开启df模式
+bind s "cl_dummy_copy_moves 0"关闭分身同步模式
+bind t "bind mouse1 +fire"开启正常锤模式（即关闭hdf或df）
+bind u "toggle cl_default_zoom 8 3; zoom"缩小/放大视野
+bind v "toggle cl_dummy_hammer 0 1"分身自动hammerfly
+bind w "+jump"跳跃
+bind x "exec qmnm.cfg"开启qmnm模式（即把qml和qmr模式关闭，按下q键正常切换分身）
+bind y "say /pause"进入暂停模式（也是旁观模式，不过tee不会消失）
+bind z "exec hommeron.cfg"开启钩锤模式（这个模式下，你每按一次鼠标右键也会跟着锤一下，在gores当中有些地方救人挺好用）
+bind 1 "+weapon1"
+bind 2 "+weapon2"
+bind 3 "+weapon3"
+bind 4 "+weapon4"
+bind 5 "+weapon5"
+bind 6 "+toggle cl_mouse_max_distance 2 400; +toggle inp_mousesens 1 100" 按时进入45度角模式（松开回到正常模式）
+bind 7 "say you guys should bind No you things" 从这里开始都是吵队友的bind，没用
+bind 8 "say ok dud"
+bind 9 "say CAREFUL ANONYMOUS THINK BEFORE YOU DO"
+bind 0 "say Let's 69 this"
+bind return "+show_chat; chat all"
+bind tab "+toggle cl_dummy_jump 1 0" 如果进入了分身控制模式（cl_dummy_control 1），按下这个键可以让分身跳
+bind space " cl_mouse_max_distance 2 400; inp_mousesens 1 100" 开启45度角模式（松开也不会回到正常模式，需要再按一次6才能关闭）
+bind minus "toggle cl_showhud 0 1" 减号键，把HUD关闭
+bind equals "player_name Pepegepeg; dummy_name [D]Peg" 等于号键，自动改名，请把这行删掉
+bind leftbracket "say No you things" 吵队友的bind，没用
+bind rightbracket "+show_chat; chat all /c " 快速回复私聊
+bind backslash "+emote" 表情包
+bind semicolon "say wowo hax" 吵队友
+bind apostrophe "say this message means I didn't press f6" 吵队友
+bind grave "exec dcon.cfg" 波浪号键~（或者是`键），开关分身控制模式（在分身控制模式下，有很多特殊的操作可以做到，但在关闭分身控制模式之前会永久关闭卡键模式）
+bind comma "say maybe you should uninstall game" 逗号键，吵队友
+bind period "say I don't understand, can you explain?" 句号键，吵队友
+bind slash "+scoreboard" 问号键，开启计分板
+bind capslock "exec kintaswitch.cfg" 大小写键，开启kintaswitch（疯狂篇中提及）
+bind f1 "toggle_local_console" 
+bind f2 "toggle_remote_console"
+bind f3 "toggle cl_overlay_entities 0 100" 开关实体层
+bind f4 "vote no" 
+bind f5 "vote yes"
+bind f6 "say this message means I pressed f6" 吵队友
+bind f7 "say /points anonymous" 吵队友
+bind f8 "say Good game, well played" 吵队友
+bind f9 "say this part is too hax for me" 吵队友
+bind f10 "say bind mouse1 \"say wowo nice map; say /kill; unbindall; exit\"" 吵队友
+bind f11 "say AAAAAAAAAAAAAAAAAAAAAHAXXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASPAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" 吵队友
+bind f12 "say idk map, where do i go?"吵队友
+bind pageup "zoom-" 这个和下面那个是缩放/扩大视野
+bind pagedown "zoom+" 
+bind kp_divide "toggle cl_race_show_ghost 0 1" 没用
+bind kp_multiply "zoom" 没用
+bind kp_minus "toggle cl_show_quads 0 1" 小键盘减号键，开关一些背景图层
+bind kp_plus "echo \"1: teach hammerhit; 2: teach speedfly; 3: afk; 4: stop moving; 5: b; 6: eco; 7: packet loss; 8: lag; 9: hi\"" 小键盘的加号键，吵队友的目录，可以知道哪个键会说什么
+bind kp_1 "say wowo teach me how to hammerhit" 吵队友
+bind kp_2 "say wowo teach me how to speedfly"吵队友
+bind kp_3 "say afk 140 minutes"吵队友
+bind kp_4 "say stop moving for a sec"吵队友
+bind kp_5 "say b"吵队友
+bind kp_6 "say eco round, recommended weapons for this round are: p250, usp, p2000"吵队友
+bind kp_7 "say This message was sent because a packet loss was detected"吵队友
+bind kp_8 "say Lag killed me."吵队友
+bind kp_9 "say hi"吵队友
+bind kp_0 "say follow me"吵队友
+bind clear "say b"吵队友
+bind lalt "+showhookcoll" 显示钩线
+bind rshift "+spectate" 观察时切换视角
+bind mouse1 "+fire" 鼠标左键，开火
+bind mouse2 "+hook" 鼠标右键，钩
+bind mouse3 "kill" 鼠标中键，自杀
+bind shift+r "say /r" 没用
+bind ctrl+g "exec gores\\switch.txt" ctrl+g键，开启gores模式，这个模式下你按右键就会切换到枪，按左键会自动切换到锤子然后锤，就不用在gores的时候换来换去了
