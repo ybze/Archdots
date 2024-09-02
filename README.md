@@ -76,9 +76,9 @@ It includes:
 </details>
 
 <details>
-<summary> base-devel </summary>
+<summary> bat </summary>
 
-Basic tools to build Arch Linux packages.
+A cat clone with syntax highlighting and Git integration. 
 
 </details>
 
