@@ -1,0 +1,61 @@
+[colors.bright]
+black = "0x545454"
+blue = "0xA2B0DD"
+cyan = "0xA2DDCE"
+green = "0xB0DDA2"
+magenta = "0xCEA2DD"
+red = "0xDDA2B0"
+white = "0xF8F8F8"
+yellow = "0xDDCEA2"
+
+[colors.normal]
+black = "0x3B4252"
+blue = "0x81A1C1"
+cyan = "0x6AC9B1"
+green = "0x82C96A"
+magenta = "0xB16AC9"
+red = "0xC96A82"
+white = "0xBBBBBB"
+yellow = "0xC9B16A"
+
+[colors.primary]
+background = "0xE7F1F7"
+foreground = "0x290446"
+
+[cursor]
+blink_interval = 550
+blink_timeout = 0
+
+[colors.cursor]
+cursor = "0x3879C5"
+
+[cursor.style]
+shape = "Beam"
+blinking = "On"
+
+[font]
+size = 15
+
+[font.bold]
+family = "monospace"
+style = "Bold"
+
+[font.bold_italic]
+family = "monospace"
+style = "BoldItalic"
+
+[font.italic]
+family = "monospace"
+style = "Italic"
+
+[font.normal]
+family = "monospace"
+style = "Regular"
+
+[[keyboard.bindings]]
+action = "SpawnNewInstance"
+key = "Return"
+mods = "Control|Shift"
+
+[mouse]
+hide_when_typing = true
