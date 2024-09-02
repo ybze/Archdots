@@ -2,6 +2,16 @@
 
 It's Zephyr's dotsfiles of Archlinux.
 
+## packages with configuration
+
+### alacritty
+
+A cross-platform, GPU-accelerated terminal emulator.
+
+Place the configuration [file](./alacritty/alacritty.toml) at `$XDG_CONFIG_HOME/alacritty/` or `$HOME/.config/alacritty/`
+
+Also provide a [dark UI](./alacritty/dark.toml).
+
 ## packeages without configuration
 
 <details>
@@ -13,12 +23,44 @@ for more information.
 
 </details>
 
-## packages with configuration
+<details>
+<summary> alsa-utils </summary>
 
-### alacritty
+Advanced Linux Sound Architecture - Utilities
 
-A cross-platform, GPU-accelerated terminal emulator.
+This contains (among other utilities) the `alsamixer` and `amixer` utilities.
+`amixer` is a shell command to change audio settings,
+while `alsamixer` provides a more intuitive ncurses based interface for audio device configuration.
 
-Place the configuration [file](./alacritty/alacritty.toml) at `$XDG_CONFIG_HOME/alacritty/` or `$HOME/.config/alacritty/`
+</details>
 
-Also provide a [dark UI](./alacritty/dark.toml).
+<details>
+<summary> amd-ucode </summary>
+
+Microcode update image for AMD CPUs
+
+</details>
+
+
+<details>
+<summary> arch-install-scripts </summary>
+
+Scripts to aid in installing Arch Linux include `arch-chroot`, `genfstab`, `pacstrap`.
+
+</details>
+
+<details>
+<summary> archlinuxcn-keyring </summary>
+
+Arch Linux CN PGP keyring
+
+</details>
+
+<details>
+<summary> asciinema </summary>
+
+Record and share terminal sessions
+
+</details>
+
+
