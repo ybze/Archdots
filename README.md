@@ -105,3 +105,12 @@ By default a configuration file is created upon first launch in `$XDG_CONFIG_HOM
 
 </details>
 
+<details>
+<summary> chntpw </summary>
+
+Offline NT Password Editor - reset passwords in a Windows NT SAM user database file.
+
+It's used in bluetooth dual boot pairing. See [archwiki](https://wiki.archlinux.org/title/Bluetooth#Dual_boot_pairing) for dual boot pairing.
+
+</details>
+
