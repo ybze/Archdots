@@ -82,3 +82,11 @@ A cat clone with syntax highlighting and Git integration.
 
 </details>
 
+<details>
+<summary> batsignal </summary>
+
+batsignal is a lightweight battery daemon written in C that notifies the user about various battery states. It is intended for minimal window managers, but can be used in any environment that supports desktop notifications via libnotify.
+
+</details>
+
+
