@@ -89,4 +89,10 @@ batsignal is a lightweight battery daemon written in C that notifies the user ab
 
 </details>
 
+<details>
+<summary> bluez-utils </summary>
+
+Development and debugging utilities for the bluetooth. See [archwiki](https://wiki.archlinux.org/title/Bluetooth#Dual_boot_pairing) for dual boot pairing.
+
+</details>
 
