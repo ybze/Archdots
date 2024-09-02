@@ -121,3 +121,11 @@ A web browser built for speed, simplicity, and security.
 
 </details>
 
+<details>
+<summary> clash-meta </summary>
+
+Another Clash Kernel by MetaCubeX.
+
+</details>
+
+
