@@ -96,3 +96,12 @@ Development and debugging utilities for the bluetooth. See [archwiki](https://wi
 
 </details>
 
+<details>
+<summary> cava </summary>
+
+Console-based Audio Visualizer for Alsa.
+
+By default a configuration file is created upon first launch in `$XDG_CONFIG_HOME/cava/config` or `$HOME/.config/cava/config`.
+
+</details>
+
