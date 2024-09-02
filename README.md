@@ -128,4 +128,10 @@ Another Clash Kernel by MetaCubeX.
 
 </details>
 
+<details>
+<summary> cmatrix </summary>
+
+A curses-based scrolling 'Matrix'-like screen.
+
+</details>
 
