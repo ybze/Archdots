@@ -63,4 +63,22 @@ Record and share terminal sessions
 
 </details>
 
+<details>
+<summary> base </summary>
+
+Minimal package set to define a basic Arch Linux installation.
+It includes:
+- basics such as glibc and bash,
+- distribution related things such as pacman and systemd
+- POSIX tools such as core utilities, process, file and file compression utilities
+- networking tools such as iproute2
+
+</details>
+
+<details>
+<summary> base-devel </summary>
+
+Basic tools to build Arch Linux packages.
+
+</details>
 
