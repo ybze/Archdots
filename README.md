@@ -8,9 +8,15 @@ It's Zephyr's dotsfiles of Archlinux.
 
 A cross-platform, GPU-accelerated terminal emulator.
 
-Place the configuration [file](./alacritty/alacritty.toml) at `$XDG_CONFIG_HOME/alacritty/` or `$HOME/.config/alacritty/`
+Place the configuration [file](./alacritty/alacritty.toml) at `$XDG_CONFIG_HOME/alacritty/` or `$HOME/.config/alacritty/`.
 
 Also provide a [dark UI](./alacritty/dark.toml).
+
+### code
+
+The Open Source build of Visual Studio Code (vscode) editor.
+
+Place the [configuration](./Code - OSS/settings.json) at `$HOME/.config/Code - OSS/User/settings.json`.
 
 ## packeages without configuration
 
