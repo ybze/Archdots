@@ -147,3 +147,11 @@ A curses-based scrolling 'Matrix'-like screen.
 
 </details>
 
+<details>
+<summary> downgrade </summary>
+
+Bash script for downgrading one or more packages to a version in your cache or the A.L.A.
+
+</details>
+
+
