@@ -1,0 +1,8 @@
+[Unit]
+Description=Dufs File Server
+
+[Service]
+ExecStart=/usr/bin/dufs --config /home/zephyr/.config/dufs/config.yaml
+
+[Install]
+WantedBy=default.target

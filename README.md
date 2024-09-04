@@ -24,6 +24,16 @@ A Teeworlds modification with a unique cooperative gameplay.
 
 Place the files in the [dictionary](./ddnet) at `$HOME/.local/share/ddnet/`
 
+### dufs
+
+Dufs is a distinctive utility file server that supports
+static serving, uploading, searching, accessing control,
+webdav...
+
+Place the [configuration](./dufs/config.yaml) at `$HOME/.config/dufs/config.yaml`.
+
+For systemd user, put the [service](./dufs/dufs.service) at `$HOME/.config/systemd/user/dufs.service`
+
 ## packeages without configuration
 
 <details>
