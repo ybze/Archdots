@@ -181,3 +181,15 @@ EasyEffects (former PulseEffects) is a GTK utility which provides a large array 
 
 </details>
 
+<details>
+<summary> eza </summary>
+
+A modern replacement for ls (community fork of exa)
+
+put this in the `$HOME/.zshrc`:
+```
+alias ls = exa
+```
+
+</details>
+
