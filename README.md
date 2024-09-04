@@ -199,3 +199,11 @@ alias ls = exa
 
 </details>
 
+<details>
+<summary> ffsend </summary>
+
+Easily and securely share files from the command line.
+A [Send](https://github.com/timvisee/send) client.
+
+</details>
+
