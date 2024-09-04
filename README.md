@@ -207,3 +207,10 @@ A [Send](https://github.com/timvisee/send) client.
 
 </details>
 
+<details>
+<summary> figlet </summary>
+
+A program for making large letters out of ordinary text
+
+</details>
+
