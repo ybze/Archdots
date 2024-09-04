@@ -34,6 +34,12 @@ Place the [configuration](./dufs/config.yaml) at `$HOME/.config/dufs/config.yaml
 
 For systemd user, put the [service](./dufs/dufs.service) at `$HOME/.config/systemd/user/dufs.service`
 
+### fcitx5
+
+I've installed `fcitx5-im`(which includes fcitx5 fcitx5-gtk fcitx5-qt fcitx5-configtoll) and `fcitx5-chinese-addons fcitx5-pinyin-moegirl fcitx5-piyin-zhwiki` for chinese support.
+
+put the [environment variables](./fictx5/environment) in `/etc/environment`
+
 ## packeages without configuration
 
 <details>

@@ -1,0 +1,5 @@
+# GTK_IM_MODULE=fcitx   # It seems to be no longer needed
+QT_IM_MODULE=fcitx
+XMODIFIERS="@im=fcitx"  # For generic X11 applications
+SDL_IM_MODULE=fcitx     # enable support of some games that use a specific version of the SDL2 library
+GLFW_IM_MODULE=ibus     # enable support in kitty. The value of this environment variable can only be ibus
