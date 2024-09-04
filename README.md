@@ -164,4 +164,13 @@ Bash script for downgrading one or more packages to a version in your cache or t
 
 </details>
 
+<details>
+<summary> easyconnect </summary>
+
+Support access to ssl vpn. With easyconect，you can secure
+and speed up connection to cooperate network at ease!
+
+> I use it to connect the vpn of fudan university, any suggestion to use openvpn instead?
+
+</details>
 
