@@ -174,3 +174,10 @@ and speed up connection to cooperate network at ease!
 
 </details>
 
+<details>
+<summary> easyeffect </summary>
+
+EasyEffects (former PulseEffects) is a GTK utility which provides a large array of audio effects and filters to individual application output streams and microphone input streams. Notable effects include an input/output equalizer, output loudness equalization and bass enhancement, input de-esser and noise reduction plug-in. See the [GitHub page](https://github.com/wwmm/easyeffects) for a full list of effects. 
+
+</details>
+
