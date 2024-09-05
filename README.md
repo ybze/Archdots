@@ -332,3 +332,10 @@ Converts the output of popular command-line tools and file-types to JSON
 
 </details>
 
+<details>
+<summary> jmtpfs </summary>
+
+FUSE and libmtp based filesystem for accessing MTP (Media Transfer Protocol) devices
+
+</details>
+
