@@ -424,3 +424,10 @@ The Linux MultiMedia Studio
 
 </details>
 
+<details>
+<summary> lolcat </summary>
+
+Okay, no unicorns. But rainbows!!
+
+</details>
+
