@@ -366,3 +366,10 @@ see [ArchWiki](https://wiki.archlinux.org/title/KMSCON) for more information.
 
 </details>
 
+<details>
+<summary> lenmus </summary>
+
+A free program for learning music
+
+</details>
+
