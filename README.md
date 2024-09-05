@@ -290,3 +290,10 @@ Interactive process viewer
 
 </details>
 
+<details>
+<summary> imv </summary>
+
+Image viewer for Wayland and X11
+
+</details>
+
