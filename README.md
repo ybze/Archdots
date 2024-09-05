@@ -82,6 +82,12 @@ A modern, hackable, featureful, OpenGL-based terminal emulator
 Place the [configuration](./kitty/kitty.conf) at `$HOME/.config/kitty/`.
 I also put some color scheme.
 
+### ly
+
+TUI display manager, see [ly](https://github.com/fairyglade/ly) for more information.
+
+Place the [configuration](./ly/config.ini) at `/etc/ly/config.ini`
+
 ## packeages without configuration
 
 <details>
