@@ -12,6 +12,12 @@ Place the configuration [file](./alacritty/alacritty.toml) at `$XDG_CONFIG_HOME/
 
 Also provide a [dark UI](./alacritty/dark.toml).
 
+### bat
+
+A cat clone with syntax highlighting and Git integration. 
+
+Put the [variables](./bat/environment) in `$HOME/.zshenv`
+
 ### code
 
 The Open Source build of Visual Studio Code (vscode) editor.
@@ -114,13 +120,6 @@ It includes:
 - distribution related things such as pacman and systemd
 - POSIX tools such as core utilities, process, file and file compression utilities
 - networking tools such as iproute2
-
-</details>
-
-<details>
-<summary> bat </summary>
-
-A cat clone with syntax highlighting and Git integration. 
 
 </details>
 
