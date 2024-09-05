@@ -1,0 +1,2 @@
+export FONTPREVIEW_PREVIEW_TEXT="ABCDEFGHIJKLM\nNOPQRSTUVWXYZ\nabcdefghijklm\nnopqrstuvwxyz\n1234567890\n!@$\%(){}[]\n南去经三国，东来过五湖。\n遨游五湖四海，见两人对坐于庙，\n一者微风迎客，软语伴茶，细察，茶乃中国茶。"
+export FONTPREVIEW_SIZE=1024x512

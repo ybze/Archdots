@@ -46,6 +46,14 @@ Fast, Private & Safe Web Browser.
 
 I've installed `firefox-i18n-zh-cn` for chinese language support.
 
+### fontpreview
+
+Highly customizable and minimal font previewer written in bash.
+
+You can configure fontpreview through environment variables.
+
+Put the [variables](./fontpreview/environment) in `$HOME/.zshenv`
+
 ## packeages without configuration
 
 <details>
