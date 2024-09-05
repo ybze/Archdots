@@ -234,3 +234,11 @@ A lightweight email client for the GNOME desktop
 
 </details>
 
+<details>
+<summary> gifski </summary>
+
+GIF encoder based on libimagequant (pngquant). Squeezes
+maximum possible quality from the awful GIF format.
+
+</details>
+
