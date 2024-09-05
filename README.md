@@ -66,7 +66,10 @@ Place the [configuration](./grub/grub) at `/etc/default/grub`
 
 ### hyprland
 
-See end-4's [dots-hyprland](https://github.com/end-4/dots-hyprland).
+See end-4's [dots-hyprland](https://github.com/end-4/dots-hyprland), which also installed the following packeages:
+`illogical-impulse-ags illogical-impulse-ags-debug illogical-impulse-audio illogical-impulse-backlight illogical-impulse-basic illogical-impulse-bibata-modern-classic-bin illogical-impulse-fonts-themes
+illogical-impulse-gnome illogical-impulse-gtk illogical-impulse-microtex-git illogical-impulse-microtex-git-debug illogical-impulse-oneui4-icons-git
+illogical-impulse-portal illogical-impulse-pymyc-aur illogical-impulse-python illogical-impulse-screencapture illogical-impulse-widgets`
 
 Place the [custom files](./hyprland/custom/) at `$HOME/.config/hypr/custom/`
 
