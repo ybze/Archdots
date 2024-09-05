@@ -242,3 +242,10 @@ maximum possible quality from the awful GIF format.
 
 </details>
 
+<details>
+<summary> glfw </summary>
+
+A free, open source, portable framework for graphical application development
+
+</details>
+
