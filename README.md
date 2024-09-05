@@ -373,3 +373,10 @@ A free program for learning music
 
 </details>
 
+<details>
+<summary> lexend-fonts-git </summary>
+
+Lexend is a variable typeface designed to improve reading fluency
+
+</details>
+
