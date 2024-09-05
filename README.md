@@ -60,6 +60,10 @@ You can configure fontpreview through environment variables.
 
 Put the [variables](./fontpreview/environment) in `$HOME/.zshenv`
 
+### grub
+
+Place the [configuration](./grub/grub) at `/etc/default/grub`
+
 ## packeages without configuration
 
 <details>
