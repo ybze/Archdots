@@ -256,3 +256,10 @@ A font viewer utility for GNOME
 
 </details>
 
+<details>
+<summary> go </summary>
+
+Core compiler tools for the Go programming language
+
+</details>
+
