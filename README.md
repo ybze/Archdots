@@ -410,3 +410,10 @@ Headers and scripts for building modules for the Linux kernel
 
 </details>
 
+<details>
+<summary> linux-wifi-hotspot </summary>
+
+Feature-rich wifi hotspot creator
+
+</details>
+
