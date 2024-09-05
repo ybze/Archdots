@@ -389,3 +389,10 @@ Install `libreoffice-fresh-zhi-cn` for Chinese language pack.
 
 </details>
 
+<details>
+<summary> light-git </summary>
+
+Program to easily change brightness on backlight-controllers.
+
+</details>
+
