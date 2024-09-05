@@ -403,3 +403,10 @@ Music engraving program, devoted to producing the highest-quality sheet music po
 
 </details>
 
+<details>
+<summary> linux-headers </summary>
+
+Headers and scripts for building modules for the Linux kernel
+
+</details>
+
