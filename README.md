@@ -304,3 +304,10 @@ Professional vector graphics editor
 
 </details>
 
+<details>
+<summary> intel-ucode </summary>
+
+Microcode update files for Intel CPUs
+
+</details>
+
