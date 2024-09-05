@@ -348,3 +348,21 @@ FUSE and libmtp based filesystem for accessing MTP (Media Transfer Protocol) dev
 
 </details>
 
+<details>
+<summary> kmscon </summary>
+
+Kmscon is a simple terminal emulator based on linux kernel mode setting. It is an attempt to replace the in-kernel VT implementation with a userspace console.
+
+Kmscon can function as a drop-in replacement for the in-kernel linux-console. Features include:
+
+- Full vt220 to vt510 implementation.
+- Full internationalization support:
+    - Kmscon supports printing full Unicode glyphs, including the CJK ones.
+    - Kmscon provides internationalized keyboard handling through libxkbcommon, thus allowing it to use the full range of keyboard layouts supported in X keyboard.
+- Hardware accelerated rendering.
+- Multi-seat capability.
+
+see [ArchWiki](https://wiki.archlinux.org/title/KMSCON) for more information.
+
+</details>
+
