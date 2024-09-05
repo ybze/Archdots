@@ -227,3 +227,10 @@ A program for making large letters out of ordinary text
 
 </details>
 
+<details>
+<summary> geary </summary>
+
+A lightweight email client for the GNOME desktop
+
+</details>
+
