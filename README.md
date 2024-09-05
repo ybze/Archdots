@@ -318,3 +318,10 @@ A typeface specially designed for user interfaces
 
 </details>
 
+<details>
+<summary> jaq </summary>
+
+A jq clone focussed on correctness, speed, and simplicity
+
+</details>
+
