@@ -325,3 +325,10 @@ A jq clone focussed on correctness, speed, and simplicity
 
 </details>
 
+<details>
+<summary> jc </summary>
+
+Converts the output of popular command-line tools and file-types to JSON
+
+</details>
+
