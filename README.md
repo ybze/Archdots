@@ -444,3 +444,10 @@ Securely transfer data between computers
 
 </details>
 
+<details>
+<summary> man-db </summary>
+
+A utility for reading man pages
+
+</details>
+
