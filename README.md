@@ -40,6 +40,12 @@ I've installed `fcitx5-im`(which includes fcitx5 fcitx5-gtk fcitx5-qt fcitx5-con
 
 put the [environment variables](./fictx5/environment) in `/etc/environment`
 
+### firefox
+
+Fast, Private & Safe Web Browser.
+
+I've installed `firefox-i18n-zh-cn` for chinese language support.
+
 ## packeages without configuration
 
 <details>
