@@ -249,3 +249,10 @@ A free, open source, portable framework for graphical application development
 
 </details>
 
+<details>
+<summary> gnome-font-viewer </summary>
+
+A font viewer utility for GNOME
+
+</details>
+
