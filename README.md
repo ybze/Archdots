@@ -417,3 +417,10 @@ Feature-rich wifi hotspot creator
 
 </details>
 
+<details>
+<summary> lmms </summary>
+
+The Linux MultiMedia Studio
+
+</details>
+
