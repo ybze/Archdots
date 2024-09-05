@@ -66,12 +66,21 @@ Place the [configuration](./grub/grub) at `/etc/default/grub`
 
 ### hyprland
 
+A dynamic tiling Wayland compositor based on wlroots that doesn't sacrifice on its looks.
+
 See end-4's [dots-hyprland](https://github.com/end-4/dots-hyprland), which also installed the following packeages:
 `illogical-impulse-ags illogical-impulse-ags-debug illogical-impulse-audio illogical-impulse-backlight illogical-impulse-basic illogical-impulse-bibata-modern-classic-bin illogical-impulse-fonts-themes
 illogical-impulse-gnome illogical-impulse-gtk illogical-impulse-microtex-git illogical-impulse-microtex-git-debug illogical-impulse-oneui4-icons-git
 illogical-impulse-portal illogical-impulse-pymyc-aur illogical-impulse-python illogical-impulse-screencapture illogical-impulse-widgets`
 
 Place the [custom files](./hyprland/custom/) at `$HOME/.config/hypr/custom/`
+
+### kitty
+
+A modern, hackable, featureful, OpenGL-based terminal emulator
+
+Place the [configuration](./kitty/kitty.conf) at `$HOME/.config/kitty/`.
+I also put some color scheme.
 
 ## packeages without configuration
 
