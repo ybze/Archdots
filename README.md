@@ -297,3 +297,10 @@ Image viewer for Wayland and X11
 
 </details>
 
+<details>
+<summary> inkscape </summary>
+
+Professional vector graphics editor
+
+</details>
+
