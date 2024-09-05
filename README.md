@@ -64,6 +64,12 @@ Put the [variables](./fontpreview/environment) in `$HOME/.zshenv`
 
 Place the [configuration](./grub/grub) at `/etc/default/grub`
 
+### hyprland
+
+See end-4's [dots-hyprland](https://github.com/end-4/dots-hyprland).
+
+Place the [custom files](./hyprland/custom/) at `$HOME/.config/hypr/custom/`
+
 ## packeages without configuration
 
 <details>
