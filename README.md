@@ -380,3 +380,12 @@ Lexend is a variable typeface designed to improve reading fluency
 
 </details>
 
+<details>
+<summary> libreoffice-fresh </summary>
+
+LibreOffice branch which contains new features and program enhancements
+
+Install `libreoffice-fresh-zhi-cn` for Chinese language pack.
+
+</details>
+
