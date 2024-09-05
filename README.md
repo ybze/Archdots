@@ -396,3 +396,10 @@ Program to easily change brightness on backlight-controllers.
 
 </details>
 
+<details>
+<summary> lilypond </summary>
+
+Music engraving program, devoted to producing the highest-quality sheet music possible
+
+</details>
+
