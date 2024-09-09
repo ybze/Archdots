@@ -100,6 +100,12 @@ Place the [configuration](./nvim/) at `$HOME/.config/nvim/`
 
 It's based on [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
+### nethack
+
+A single player dungeon exploration game
+
+Place the [configuration](./nethack/nethackrc) at `$HOME/.nethackrc`
+
 ## packeages without configuration
 
 <details>

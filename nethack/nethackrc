@@ -1,0 +1,89 @@
+# This is an example nethackrc file. You should edit this to suit your needs
+
+# This editor is vi-like. Type ESC a couple times, then ':q!' (without quotes)
+# to exit if you get stuck. To save, hit ESC and then ZZ or type ':wq'
+# (without quotes.) To insert text, hit 'i' to enter insert mode.
+# You could also go to http://alt.org/nethack/ and choose either WebConf or RC Edit
+
+OPTIONS=role:kni,race:hum,align:law,gender:male
+
+OPTIONS=!autopickup
+OPTIONS=showexp,showscore,time,msghistory:50,msg_window:r
+OPTIONS=autodig,fruit:bocadrisil,boulder:0
+OPTIONS=DECgraphics,hilite_pet,lit_corridor,color
+OPTIONS=!sparkle,!timed_delay,!cmdassist,suppress_alert:3.4.3
+# Patches
+OPTIONS=use_darkgray,sortloot:loot
+
+
+# Dungeon line, for testing...contains the standard DEC set (mostly)
+# Not for standard use!
+#DUNGEON = 0 248 241 236 235 237 234 238 246 247 \
+#    245 244 254 225 225 0 0 251 231 254 \
+#    0 0 0 0 249 250 0 0 0 0 \
+#    0 32 254 224 254 254 0 0 0 0 \
+#    32
+#changes 32 and 41 to space (224 > 32)
+
+
+
+
+OPTIONS=menucolors
+
+BIND=v:loot
+BIND=!:force
+BIND=O:offer
+BIND=m:twoweapon
+# showbuc would make this a snap, but I have not bothered to account for that yet
+# Enchantments on items without B/C/U
+MENUCOLOR=" \+[0-9]"=cyan
+MENUCOLOR=" -[0-9]"=brown&bold
+
+# Stuff
+MENUCOLOR=" uncursed"=cyan
+MENUCOLOR=" cursed"=red
+MENUCOLOR=" blessed"=lightblue
+
+# Wands and other charged items
+MENUCOLOR=" \([0-7]:.*\)"=yellow
+MENUCOLOR=" \([0-7]:[1-3]\)"=brown
+MENUCOLOR=" \([0-7]:(0|-1)\)"=brown&underline
+MENUCOLOR=" named empty"=brown&underline
+
+# Water for who-knows-why
+MENUCOLOR=" holy water"=lightcyan&bold
+MENUCOLOR=" blessed potion. called water"=lightcyan&bold
+MENUCOLOR=" unholy water"=red&bold
+MENUCOLOR=" cursed potion. called water"=red&bold
+
+# The "Do not put in the bag of holding" list
+MENUCOLOR=" bag.*holding"=lightmagenta&bold
+MENUCOLOR=" wand.*cancellation"=lightmagenta&bold
+MENUCOLOR=" wand.*vanish"=lightmagenta
+MENUCOLOR=" sack.*cancellation"=lightmagenta&bold
+MENUCOLOR=" bag.*tricks"=lightmagenta&bold
+
+# The real amulet, when named
+MENUCOLOR=" Amulet of Yendor named"=red&inverse
+
+# Non-cursed items or items of unknown B/C/U in use (cursed shows up easily by attempts to remove)
+MENUCOLOR="^. - [at0-9].* \([^ln0-9][a-zA-Z ]*\)"=lightgreen
+
+# Lit light
+MENUCOLOR=" \(lit\)"=white
+
+# Cursed junk
+MENUCOLOR="^. - [at0-9].* cursed .* \([^ln0-9][a-zA-Z ]*\)"=orange
+
+# What? You expected a list for blessed items in use too? Don't be silly - blessed is almost the same as uncursed
+
+# Looting. Just to be fancy with the looting menu.
+MENUCOLOR="Do what?"=lightcyan
+MENUCOLOR="Take something out of"=lightmagenta&bold
+MENUCOLOR="Put something into"=lightmagenta&bold
+MENUCOLOR="Both of the above"=lightgreen
+
+# Skill slots
+MENUCOLOR=". -.* \[(Unskilled|Basic|Skilled|Expert|Master)"=white
+
+#Copy if you want, but look at interhack too!
