@@ -500,3 +500,10 @@ Disk usage analyzer with an ncurses interface
 
 </details>
 
+<details>
+<summary> neofetch </summary>
+
+A CLI system information tool written in BASH that supports displaying images.
+
+</details>
+
