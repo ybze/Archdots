@@ -493,3 +493,10 @@ A free japanese visual novel game, translated into English. This package include
 
 </details>
 
+<details>
+<summary> ncdu </summary>
+
+Disk usage analyzer with an ncurses interface
+
+</details>
+
