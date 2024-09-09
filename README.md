@@ -573,3 +573,10 @@ Nyancat rendered in your terminal
 
 </details>
 
+<details>
+<summary> openshot </summary>
+
+An award-winning free and open-source video editor
+
+</details>
+
