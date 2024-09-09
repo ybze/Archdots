@@ -594,3 +594,10 @@ Command-line file archiver with high compression ratio
 
 </details>
 
+<details>
+<summary> pacman4console </summary>
+
+A 9 level ncurses pacman game with editor, patched not to disturb our package manager and to have nice ghosts
+
+</details>
+
