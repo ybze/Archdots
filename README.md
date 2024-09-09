@@ -94,6 +94,11 @@ A simple and elegant open-source markdown editor that focused on speed and usabi
 
 Place the [configuration](./marktext/preferences.json) at `$HOME/.config/marktext/`.
 
+### neovim
+
+Place the [configuration](./nvim/) at `$HOME/.config/nvim/`
+
+It's based on [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
 ## packeages without configuration
 
