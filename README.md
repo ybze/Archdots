@@ -559,3 +559,10 @@ a cloud service that lets you sync and share files anywhere
 
 </details>
 
+<details>
+<summary> nwg-look </summary>
+
+GTK3 settings editor adapted to work on wlroots-based compositors
+
+</details>
+
