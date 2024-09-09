@@ -615,3 +615,10 @@ A lightweight compositor for X11
 
 </details>
 
+<details>
+<summary> pipes.sh </summary>
+
+Animated pipes terminal screensaver
+
+</details>
+
