@@ -601,3 +601,10 @@ A 9 level ncurses pacman game with editor, patched not to disturb our package ma
 
 </details>
 
+<details>
+<summary> pandoc-cli </summary>
+
+Conversion between documentation formats
+
+</details>
+
