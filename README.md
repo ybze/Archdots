@@ -540,3 +540,10 @@ Linux 平台下基于 Rust + GTK4 开发的网易云音乐播放器
 
 </details>
 
+<details>
+<summary> nutstore </summary>
+
+a cloud service that lets you sync and share files anywhere
+
+</details>
+
