@@ -88,6 +88,13 @@ TUI display manager, see [ly](https://github.com/fairyglade/ly) for more informa
 
 Place the [configuration](./ly/config.ini) at `/etc/ly/config.ini`
 
+### marktext
+
+A simple and elegant open-source markdown editor that focused on speed and usability
+
+Place the [configuration](./marktext/preferences.json) at `$HOME/.config/marktext/`.
+
+
 ## packeages without configuration
 
 <details>
