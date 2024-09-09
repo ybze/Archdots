@@ -458,3 +458,10 @@ A utility for reading man pages
 
 </details>
 
+<details>
+<summary> mesa-utils </summary>
+
+Essential Mesa utilities
+
+</details>
+
