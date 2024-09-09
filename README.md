@@ -472,3 +472,10 @@ A FUSE filesystem that supports reading and writing from any MTP device
 
 </details>
 
+<details>
+<summary> n-m3u8dl-re-bin </summary>
+
+Cross-Platform, beautiful and powerful stream downloader for DASH/HLS.
+
+</details>
+
