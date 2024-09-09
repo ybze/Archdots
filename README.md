@@ -587,3 +587,10 @@ A sans-serif font by indestructible type* inspired by 1920s German sans-serifs
 
 </details>
 
+<details>
+<summary> p7zip </summary>
+
+Command-line file archiver with high compression ratio
+
+</details>
+
