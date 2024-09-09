@@ -486,3 +486,10 @@ Pico editor clone with enhancements
 
 </details>
 
+<details>
+<summary> narcissu2 </summary>
+
+A free japanese visual novel game, translated into English. This package includes both Narcissu and Narcissu: Side 2nd.
+
+</details>
+
