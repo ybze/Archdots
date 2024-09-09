@@ -479,3 +479,10 @@ Cross-Platform, beautiful and powerful stream downloader for DASH/HLS.
 
 </details>
 
+<details>
+<summary> nano </summary>
+
+Pico editor clone with enhancements
+
+</details>
+
