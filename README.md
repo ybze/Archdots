@@ -580,3 +580,10 @@ An award-winning free and open-source video editor
 
 </details>
 
+<details>
+<summary> oft-jost </summary>
+
+A sans-serif font by indestructible type* inspired by 1920s German sans-serifs
+
+</details>
+
