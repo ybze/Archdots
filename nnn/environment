@@ -1,0 +1,6 @@
+# nnn
+export NNN_PLUG='c:fzcd;f:diffs;d:dragdrop;o:fzopen;p:preview-tui;d:diffs;m:nmount;i:imgview;u:upload;z:autojump'
+export NNN_FIFO="/tmp/nnn.fifo"
+export NNN_TERMINAL=alacritty
+export NNN_TRASH=1
+export NNN_ORDER='t:/home/zephyr/Downloads'

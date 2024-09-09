@@ -106,6 +106,14 @@ A single player dungeon exploration game
 
 Place the [configuration](./nethack/nethackrc) at `$HOME/.nethackrc`
 
+### nnn
+
+The fastest terminal file manager ever written (with icon support using a patched nerd font).
+
+Put the [environment variables](./nnn/environment) at `$HOME/.zshenv`
+
+Place the [plugin](./nnn/plugins) at `$HOME/.config/nnn/`, see [nnn](https://github.com/jarun/nnn) for more information.
+
 ## packeages without configuration
 
 <details>
