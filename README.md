@@ -566,3 +566,10 @@ GTK3 settings editor adapted to work on wlroots-based compositors
 
 </details>
 
+<details>
+<summary> nyancat </summary>
+
+Nyancat rendered in your terminal
+
+</details>
+
