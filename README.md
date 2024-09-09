@@ -114,6 +114,18 @@ Put the [environment variables](./nnn/environment) at `$HOME/.zshenv`
 
 Place the [plugin](./nnn/plugins) at `$HOME/.config/nnn/`, see [nnn](https://github.com/jarun/nnn) for more information.
 
+### nvidia
+
+Place the [configuration](./nvidia/nvidia.conf) at `/etc/modprobe.d/`
+
+Add [MODULES](./nvidia/mkinitcpio-nvidia.conf) to `/etc/mkinitcpio.conf`
+
+Place the [pacman hook](./nvidia/nvidia.hook) at `/etc/pacman.d/`
+
+Place the [rules](./nvidia/80-nvidia-pm.rules) at `/etc/udev/rules.d`
+
+Install `nvidia-prime` to using `prime-run` with double GPUs.
+
 ## packeages without configuration
 
 <details>
