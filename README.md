@@ -465,3 +465,10 @@ Essential Mesa utilities
 
 </details>
 
+<details>
+<summary> mtpfs </summary>
+
+A FUSE filesystem that supports reading and writing from any MTP device
+
+</details>
+
