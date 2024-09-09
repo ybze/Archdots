@@ -519,3 +519,10 @@ Nerd Fonts: Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ pat
 
 </details>
 
+<details>
+<summary> netease-cloud-music-gtk4 </summary>
+
+Linux 平台下基于 Rust + GTK4 开发的网易云音乐播放器
+
+</details>
+
