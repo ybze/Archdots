@@ -512,3 +512,10 @@ A CLI system information tool written in BASH that supports displaying images.
 
 </details>
 
+<details>
+<summary> nerd-fonts-complete </summary>
+
+Nerd Fonts: Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts.
+
+</details>
+
