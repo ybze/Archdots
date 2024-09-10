@@ -629,3 +629,10 @@ Task manager with Todoist and Nextcloud support
 
 </details>
 
+<details>
+<summary> plasma-browser-integration </summary>
+
+Components necessary to integrate browsers into the Plasma Desktop
+
+</details>
+
