@@ -622,3 +622,10 @@ Animated pipes terminal screensaver
 
 </details>
 
+<details>
+<summary> planify </summary>
+
+Task manager with Todoist and Nextcloud support
+
+</details>
+
