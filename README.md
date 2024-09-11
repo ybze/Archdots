@@ -727,3 +727,10 @@ Multipurpose relay
 
 </details>
 
+<details>
+<summary> sof-firmware </summary>
+
+Sound Open Firmware
+
+</details>
+
