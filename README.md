@@ -650,3 +650,10 @@ Present PolicyKit information in a human-readable form.
 
 </details>
 
+<details>
+<summary> polkit-kde-agent</summary>
+
+Daemon providing a polkit authentication UI for KDE
+
+</details>
+
