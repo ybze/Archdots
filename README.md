@@ -140,6 +140,14 @@ Place the [config](./polybar/config) and [launch.sh](./polybar/launch.sh) at `$H
 
 Place the [configuration] at your `hyprland.conf` see [pot](https://github.com/pot-app/pot-desktop)
 
+### tealdeer
+
+A fast tldr client in Rust
+
+Place the [config](./tealdeer/config.toml) at `$HOME/.config/tealdeer/`
+
+Ant put the [directory](./tealdeer/pages) at `$HOME/.local/share/tealdeer/`
+
 ## packeages without configuration
 
 <details>
