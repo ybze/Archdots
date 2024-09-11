@@ -734,3 +734,10 @@ Sound Open Firmware
 
 </details>
 
+<details>
+<summary> ssfconv </summary>
+
+Sogou input method skin file (.ssf file) converter, supports conversion to fcitx or fcitx5 format
+
+</details>
+
