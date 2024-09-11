@@ -761,3 +761,10 @@ Utility for monitoring a program's use of system resources
 
 </details>
 
+<details>
+<summary> timg </summary>
+
+Terminal Image and Video Viewer
+
+</details>
+
