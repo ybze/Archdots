@@ -706,3 +706,10 @@ Systems programming language focused on safety, speed and concurrency
 
 </details>
 
+<details>
+<summary> rustdesk </summary>
+
+Yet another remote desktop software, written in Rust. Works out of the box, no configuration required. Great alternative to TeamViewer and AnyDesk!
+
+</details>
+
