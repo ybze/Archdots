@@ -720,3 +720,10 @@ An experimental alternative to poetry, pip, pipenv, venv, virtualenv, pdm, hatch
 
 </details>
 
+<details>
+<summary> socat </summary>
+
+Multipurpose relay
+
+</details>
+
