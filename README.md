@@ -636,3 +636,10 @@ Components necessary to integrate browsers into the Plasma Desktop
 
 </details>
 
+<details>
+<summary> pmount-safe-removal </summary>
+
+mount removable devices as normal user, with safe removal of device
+
+</details>
+
