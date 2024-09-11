@@ -671,3 +671,10 @@ Daemon providing a polkit authentication UI for KDE
 
 </details>
 
+<details>
+<summary> presenterm-bin </summary>
+
+A terminal slideshow tool
+
+</details>
+
