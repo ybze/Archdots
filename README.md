@@ -643,3 +643,10 @@ mount removable devices as normal user, with safe removal of device
 
 </details>
 
+<details>
+<summary> polkit-explorer-git </summary>
+
+Present PolicyKit information in a human-readable form.
+
+</details>
+
