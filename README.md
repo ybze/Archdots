@@ -148,6 +148,11 @@ Place the [config](./tealdeer/config.toml) at `$HOME/.config/tealdeer/`
 
 Ant put the [directory](./tealdeer/pages) at `$HOME/.local/share/tealdeer/`
 
+### texlive
+
+I use Arch-packaged TeX Live, but don't want to update it every time, so I put
+[this](./texlive/texlive.conf) in the `/etc/pacman.conf`
+
 ## packeages without configuration
 
 <details>
