@@ -754,3 +754,10 @@ Sogou input method skin file (.ssf file) converter, supports conversion to fcitx
 
 </details>
 
+<details>
+<summary> time </summary>
+
+Utility for monitoring a program's use of system resources
+
+</details>
+
