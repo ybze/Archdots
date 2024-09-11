@@ -713,3 +713,10 @@ Yet another remote desktop software, written in Rust. Works out of the box, no c
 
 </details>
 
+<details>
+<summary> rye </summary>
+
+An experimental alternative to poetry, pip, pipenv, venv, virtualenv, pdm, hatch
+
+</details>
+
