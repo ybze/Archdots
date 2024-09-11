@@ -685,3 +685,10 @@ A bittorrent client powered by C++, Qt6 and the good libtorrent library (Enhance
 
 </details>
 
+<details>
+<summary> rdesktop </summary>
+
+An open source client for Windows Remote Desktop Services
+
+</details>
+
