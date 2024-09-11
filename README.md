@@ -134,6 +134,12 @@ I use it for i3wm.
 
 Place the [config](./polybar/config) and [launch.sh](./polybar/launch.sh) at `$HOME/.config/polybar`
 
+### pot-translation
+
+一个跨平台的划词翻译软件 | A cross-platform software for text translation.
+
+Place the [configuration] at your `hyprland.conf` see [pot](https://github.com/pot-app/pot-desktop)
+
 ## packeages without configuration
 
 <details>
