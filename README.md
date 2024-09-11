@@ -692,3 +692,10 @@ An open source client for Windows Remote Desktop Services
 
 </details>
 
+<details>
+<summary> resources </summary>
+
+Monitor your system resources and processes
+
+</details>
+
