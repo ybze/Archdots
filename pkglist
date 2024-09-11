@@ -117,7 +117,6 @@ resources
 rust
 rustdesk
 rye
-sassc
 slides-bin
 socat
 sof-firmware
