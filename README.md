@@ -126,6 +126,14 @@ Place the [rules](./nvidia/80-nvidia-pm.rules) at `/etc/udev/rules.d`
 
 Install `nvidia-prime` to using `prime-run` with double GPUs.
 
+### polybar
+
+A fast and easy-to-use status bar.
+
+I use it for i3wm.
+
+Place the [config](./polybar/config) and [launch.sh](./polybar/launch.sh) at `$HOME/.config/polybar`
+
 ## packeages without configuration
 
 <details>
