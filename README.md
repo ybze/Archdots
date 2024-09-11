@@ -678,3 +678,10 @@ A terminal slideshow tool
 
 </details>
 
+<details>
+<summary> qbittorrent-enhanced-git </summary>
+
+A bittorrent client powered by C++, Qt6 and the good libtorrent library (Enhanced Edition)
+
+</details>
+
