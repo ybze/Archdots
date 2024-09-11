@@ -153,6 +153,12 @@ Ant put the [directory](./tealdeer/pages) at `$HOME/.local/share/tealdeer/`
 I use Arch-packaged TeX Live, but don't want to update it every time, so I put
 [this](./texlive/texlive.conf) in the `/etc/pacman.conf`
 
+### tofi
+
+Tiny rofi / dmenu replacement for wlroots-based Wayland compositors.
+
+Place the [config](./tofi) at `$HOME/.config/tofi/`
+
 ## packeages without configuration
 
 <details>
