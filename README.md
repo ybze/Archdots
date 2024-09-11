@@ -699,3 +699,10 @@ Monitor your system resources and processes
 
 </details>
 
+<details>
+<summary> rust </summary>
+
+Systems programming language focused on safety, speed and concurrency
+
+</details>
+
