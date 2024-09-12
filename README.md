@@ -897,3 +897,10 @@ Handwriting notetaking software with PDF annotation support
 
 </details>
 
+<details>
+<summary> xsettingsd </summary>
+
+Provides settings to X11 applications via the XSETTINGS
+
+</details>
+
