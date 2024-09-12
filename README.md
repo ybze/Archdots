@@ -867,3 +867,12 @@ Day/night gamma adjustments for Wayland compositors
 
 </details>
 
+<details>
+<summary> wps-office-cn </summary>
+
+Kingsoft Office (WPS Office) CN version - an office productivity suite
+
+See [ArchWiki Wps](https://wiki.archlinux.org/title/WPS_Office) for further help.
+
+</details>
+
