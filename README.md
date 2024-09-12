@@ -904,3 +904,10 @@ Provides settings to X11 applications via the XSETTINGS
 
 </details>
 
+<details>
+<summary> yarn </summary>
+
+Fast, reliable, and secure dependency management
+
+</details>
+
