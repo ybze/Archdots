@@ -918,3 +918,10 @@ Yet another yogurt. Pacman wrapper and AUR helper written in go.
 
 </details>
 
+<details>
+<summary> ydcv-rs-git </summary>
+
+A Rust version of ydcv.
+
+</details>
+
