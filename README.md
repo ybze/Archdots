@@ -825,3 +825,10 @@ A collection of USB tools to query connected USB devices
 
 </details>
 
+<details>
+<summary> uv </summary>
+
+An extremely fast Python package installer and resolver written in Rust
+
+</details>
+
