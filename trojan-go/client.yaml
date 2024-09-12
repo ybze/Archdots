@@ -1,0 +1,20 @@
+run-type: client
+local-addr: 127.0.0.1
+local-port: 1080
+remote-addr: xxx.xxx.xxx(your site)
+remote-port: 443
+password:
+    - xxxxxxxx
+ssl:
+  sni: xxx.xxx.xxx(your site)
+  cert: /etc/trojan-go/cert.pem
+  fingerprint: firefox
+router:
+    enabled: true
+    bypass: ['geoip:cn', 'geoip:private', 'geosite:cn', 'geosite:private']
+    block: ['geosite:category-ads']
+    proxy: ['geosite:geolocation-!cn']
+    default_policy: proxy
+    geoip: /usr/share/trojan-go/geoip.dat
+    geosite: /usr/share/trojan-go/geosite.dat
+

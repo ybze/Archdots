@@ -159,6 +159,14 @@ Tiny rofi / dmenu replacement for wlroots-based Wayland compositors.
 
 Place the [config](./tofi) at `$HOME/.config/tofi/`
 
+### trojan-go
+
+A Trojan proxy written in Go (git version)
+
+Place the [client config](./trojan-go/client.yaml) at `/etc/trojan-go/` along with the `cert.pem`.
+
+Also provide the [systemd file](./trojan-go/trojan-go.service), see [Archwiki Systemd](https://wiki.archlinux.org/title/Systemd#Writing_unit_files)
+
 ## packeages without configuration
 
 <details>
