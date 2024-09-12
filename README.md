@@ -853,3 +853,10 @@ An inhibitor that prevents wayland from idleing and locking the screen.
 
 </details>
 
+<details>
+<summary> wechat-universal-bwrap </summary>
+
+WeChat (Universal) with bwrap sandbox
+
+</details>
+
