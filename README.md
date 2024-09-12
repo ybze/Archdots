@@ -925,3 +925,10 @@ A Rust version of ydcv.
 
 </details>
 
+<details>
+<summary> zotero </summary>
+
+Zotero Standalone. Is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
+
+</details>
+
