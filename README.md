@@ -911,3 +911,10 @@ Fast, reliable, and secure dependency management
 
 </details>
 
+<details>
+<summary> yay </summary>
+
+Yet another yogurt. Pacman wrapper and AUR helper written in go.
+
+</details>
+
