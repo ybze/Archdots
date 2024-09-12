@@ -832,3 +832,10 @@ An extremely fast Python package installer and resolver written in Rust
 
 </details>
 
+<details>
+<summary> vlc </summary>
+
+Multi-platform MPEG, VCD/DVD, and DivX player
+
+</details>
+
