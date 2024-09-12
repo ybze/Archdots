@@ -811,3 +811,10 @@ JuliaMono is a monospace typeface designed for programming in Julia.
 
 </details>
 
+<details>
+<summary> ttf-twemoji </summary>
+
+Truetype builds of Twemoji; Twitter Color Emoji for everyone
+
+</details>
+
