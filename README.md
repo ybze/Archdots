@@ -860,3 +860,10 @@ WeChat (Universal) with bwrap sandbox
 
 </details>
 
+<details>
+<summary> wlsunset </summary>
+
+Day/night gamma adjustments for Wayland compositors
+
+</details>
+
