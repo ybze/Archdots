@@ -782,3 +782,10 @@ Terminal Image and Video Viewer
 
 </details>
 
+<details>
+<summary> ttf-font-awesome </summary>
+
+Iconic font designed for Bootstrap
+
+</details>
+
