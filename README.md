@@ -167,6 +167,14 @@ Place the [client config](./trojan-go/client.yaml) at `/etc/trojan-go/` along wi
 
 Also provide the [systemd file](./trojan-go/trojan-go.service), see [Archwiki Systemd](https://wiki.archlinux.org/title/Systemd#Writing_unit_files)
 
+### Iosevka-Sarasa
+
+Install the package `ttf-sarasa-gothic` for Chinese support.
+
+I also build custom Iosevka via the [private-build-plans](./Iosevka-Sarasa/private-build-plans.toml), see [Iosevka](https://github.com/be5invis/Iosevka)
+
+Also put the [config](./Iosevka-Sarasa/Sarasa.conf) in `/etc/pacman.conf` to disable it upgrade everytime.
+
 ## packeages without configuration
 
 <details>

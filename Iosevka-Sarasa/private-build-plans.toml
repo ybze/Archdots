@@ -1,0 +1,32 @@
+[buildPlans.IosevkaCustom]
+family = "Iosevka Custom"
+spacing = "normal"
+serifs = "sans"
+noCvSs = false
+exportGlyphNames = true
+
+[buildPlans.IosevkaCustom.variants.design]
+capital-i = "serifed"
+a = "single-storey-earless-corner-serifed"
+f = "tailed"
+l = "tailed-serifed"
+long-s = "flat-hook-tailed"
+eszet = "sulzbacher-descending-serifless"
+zero = "tall-slashed-cutout"
+asterisk = "hex-low"
+lig-ltgteq = "flat"
+lig-hyphen-chain = "with-notch"
+lig-plus-chain = "without-notch"
+
+[buildPlans.IosevkaCustom.ligations]
+inherits = "julia"
+
+[buildPlans.IosevkaCustom.widths.Condensed]
+shape = 500
+menu = 3
+css = "condensed"
+
+[buildPlans.IosevkaCustom.widths.Normal]
+shape = 600
+menu = 5
+css = "normal"
