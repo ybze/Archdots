@@ -818,3 +818,10 @@ Truetype builds of Twemoji; Twitter Color Emoji for everyone
 
 </details>
 
+<details>
+<summary> usbutils </summary>
+
+A collection of USB tools to query connected USB devices
+
+</details>
+
