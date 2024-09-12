@@ -796,3 +796,10 @@ JuliaMono is a monospace typeface designed for programming in Julia.
 
 </details>
 
+<details>
+<summary> ttf-lxgw-wenkai-mono </summary>
+
+霞鹜文楷 An open-source Chinese font derived from Fontworks' Klee One. Monospace variant.
+
+</details>
+
