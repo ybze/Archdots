@@ -890,3 +890,10 @@ Print contents of X events
 
 </details>
 
+<details>
+<summary> xournalpp </summary>
+
+Handwriting notetaking software with PDF annotation support
+
+</details>
+
