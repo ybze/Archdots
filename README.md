@@ -876,3 +876,10 @@ See [ArchWiki Wps](https://wiki.archlinux.org/title/WPS_Office) for further help
 
 </details>
 
+<details>
+<summary> xfce4-appfinder </summary>
+
+Application launcher and finder
+
+</details>
+
