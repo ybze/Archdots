@@ -883,3 +883,10 @@ Application launcher and finder
 
 </details>
 
+<details>
+<summary> xorg-xev </summary>
+
+Print contents of X events
+
+</details>
+
