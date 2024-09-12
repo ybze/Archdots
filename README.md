@@ -789,3 +789,10 @@ Iconic font designed for Bootstrap
 
 </details>
 
+<details>
+<summary> ttf-juliamono </summary>
+
+JuliaMono is a monospace typeface designed for programming in Julia.
+
+</details>
+
