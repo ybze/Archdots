@@ -846,3 +846,10 @@ Vulkan Utilities and Tools
 
 </details>
 
+<details>
+<summary> wayland-idle-inhibitor-git </summary>
+
+An inhibitor that prevents wayland from idleing and locking the screen.
+
+</details>
+
