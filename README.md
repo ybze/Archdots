@@ -839,3 +839,10 @@ Multi-platform MPEG, VCD/DVD, and DivX player
 
 </details>
 
+<details>
+<summary> vulkan-tools </summary>
+
+Vulkan Utilities and Tools
+
+</details>
+
