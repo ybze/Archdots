@@ -183,6 +183,12 @@ And [environment](./profile/environment) at `/etc/`
 
 And [zshenv](./profile/zshenv) at `$HOME/.zshenv`
 
+### pacman
+
+Put [pacman.conf](./pacman/pacman.conf) at `/etc/`
+
+And [hooks](./pacman/hook/) at `/etc/pacman.d/hooks/`
+
 ## packeages without configuration
 
 <details>
