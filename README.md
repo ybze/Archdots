@@ -189,6 +189,10 @@ Put [pacman.conf](./pacman/pacman.conf) at `/etc/`
 
 And [hooks](./pacman/hook/) at `/etc/pacman.d/hooks/`
 
+### makepkg
+
+Place the modified [makepkg.conf](./makepkg/makepkg.conf) at `/etc/`
+
 ## packeages without configuration
 
 <details>
