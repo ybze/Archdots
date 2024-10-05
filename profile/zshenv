@@ -1,0 +1,29 @@
+typeset -U path PATH
+path=(~/.local/bin ~/go/bin ~/.local/node_modules/.bin $path)
+export PATH
+export npm_config_prefix="$HOME/.local"
+# export VISUAL=ewrap
+export EDITOR=nvim
+export VISUAL=nvim
+export FFSEND_HOST=""
+export JULIA_PKG_SERVER=https://mirrors.ustc.edu.cn/julia
+export JULIAUP_SERVER=https://mirrors.tuna.tsinghua.edu.cn/julia-releases
+
+# bat
+export BAT_THEME="Solarized (dark)"
+# fontpreview
+export FONTPREVIEW_PREVIEW_TEXT="ABCDEFGHIJKLM\nNOPQRSTUVWXYZ\nabcdefghijklm\nnopqrstuvwxyz\n1234567890\n!@$\%(){}[]\n南去经三国，东来过五湖。\n遨游五湖四海，见两人对坐于庙，\n一者微风迎客，软语伴茶，细察，茶乃中国茶。"
+export FONTPREVIEW_SIZE=1024x512
+# nnn
+export NNN_PLUG='c:fzcd;f:diffs;d:dragdrop;o:fzopen;p:preview-tui;d:diffs;m:nmount;i:imgview;u:upload;z:autojump'
+export NNN_FIFO="/tmp/nnn.fifo"
+export NNN_TERMINAL=alacritty
+export NNN_TRASH=1
+export NNN_ORDER='t:/home/zephyr/Downloads'
+# export NNN_BMS="d:$HOME/Downloads;s:$HOME/Share/Mage/study;t:$HOME/File/tmp"
+
+# QT
+export QT_QPA_PLATFORM="wayland;xcb"
+
+# ssh
+export SSH_AUTH_SOCK=$XDG_RUNTIME_DIR/ssh-agent.socket

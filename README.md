@@ -175,6 +175,14 @@ I also build custom Iosevka via the [private-build-plans](./Iosevka-Sarasa/priva
 
 Also put the [config](./Iosevka-Sarasa/Sarasa.conf) in `/etc/pacman.conf` to disable it upgrade everytime.
 
+### Environment variables
+
+Put the [proxy](./profile/proxy.sh) at `/etc/profile.d/`
+
+And [environment](./profile/environment) at `/etc/`
+
+And [zshenv](./profile/zshenv) at `$HOME/.zshenv`
+
 ## packeages without configuration
 
 <details>
